@@ -17,7 +17,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in backend development.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
+<hr>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NodeJS |  
@@ -26,6 +26,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 - 🔧 &nbsp;  Visual Studio code  | Git
 - 🖥 &nbsp; Gimp | Illustrator | Photoshop | 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -43,12 +44,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lc-dev90&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Luiz's Github Stats">
 <br>
 
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-</br>
+<br>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/luiz-danella-271226213/">
