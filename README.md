@@ -1,5 +1,6 @@
 ### 👋 Hello World, I'm Luiz!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 </br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -26,7 +27,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 - 🔧 &nbsp;  Visual Studio code  | Git
 - 🖥 &nbsp; Gimp | Illustrator | Photoshop | 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
