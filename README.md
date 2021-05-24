@@ -42,5 +42,5 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-</br>
+<br>
 ⭐️ From [lc-dev90](https://github.com/lc-dev90)
