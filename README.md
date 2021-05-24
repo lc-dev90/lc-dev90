@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-dev90&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+[![icon]https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg]
 
 Hi there! 
 Abstract
