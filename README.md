@@ -17,7 +17,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in backend development.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-<br>
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NodeJS |  
@@ -37,7 +37,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<br>
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lc-dev90&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Luiz's Github Stats">
