@@ -16,7 +16,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in backend development.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
+<br>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NodeJS |  
