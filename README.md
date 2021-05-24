@@ -8,13 +8,6 @@
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
-Hi there! 
-Abstract
-Estudante de Ciência da computação.
-Interesse: RactJs, VueJs, NodeJs, NextJs, Html, Css, JavaScript.
-  <h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 Hi, I'm Luiz Cláudio, but you can call me **Luiz**. 
