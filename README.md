@@ -1,8 +1,6 @@
 ### 👋 Hello World, I'm Luiz!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -43,7 +41,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lc-dev90&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Luiz's Github Stats">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 <br>
 
 <h3> 🤝🏻 Connect with Me </h3>
