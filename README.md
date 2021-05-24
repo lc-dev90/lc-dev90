@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-dev90&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![icon]https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg]
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 Hi there! 
 Abstract
