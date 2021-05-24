@@ -43,4 +43,6 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 </a>
 
 <br>
+<br>
+<br>
 ⭐️ From [lc-dev90](https://github.com/lc-dev90)
