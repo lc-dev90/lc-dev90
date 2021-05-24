@@ -27,8 +27,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 - 🖥 &nbsp; Gimp | Illustrator | Photoshop | 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact)]
-(https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact)
 
 <hr>
 <br>
