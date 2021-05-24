@@ -19,3 +19,13 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-dev90&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+
+Hi there! 
+Abstract
+Engenheiro de Software Jr na Itaú Unibanco.
+Estudante de Ciência da computação, 5° semestre.
+Interesse: reactJs, vueJs, nodeJs, NextJs, html, css, javaScript.
+    
+
+Total de Visitas no perfil detective
