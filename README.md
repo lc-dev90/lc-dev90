@@ -33,8 +33,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
 <br>
-<br>
-<hr>
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NodeJS |  
