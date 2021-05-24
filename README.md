@@ -30,7 +30,6 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact)
 
 <hr>
-<br>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/luiz-danella-271226213/">
@@ -43,8 +42,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-</br>
-<hr>
+
 <br>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
