@@ -1,7 +1,8 @@
-### 👋 Hello World, I'm Luiz!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello World, I'm Luiz!  <img src="https://raw.githubusercontent.com/lc-dev90/Frontend-Mentor/master/Earth.gif" width="24px">
+
 <hr>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/lc-dev90/Frontend-Mentor/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
