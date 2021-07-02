@@ -35,6 +35,16 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 <img
   alt="Badge"
   style="float: left; margin-right: 10px"
+  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+/>
+<img
+  alt="Badge"
+  style="float: left; margin-right: 10px"
+  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"
+/>
+<img
+  alt="Badge"
+  style="float: left; margin-right: 10px"
   src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
 />
 <img
@@ -52,11 +62,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
   style="float: left; margin-right: 10px"
   src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
 />
-<img
-  alt="Badge"
-  style="float: left; margin-right: 10px"
-  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"
-/>
+
 <img
   alt="Badge"
   style="float: left; margin-right: 10px"
