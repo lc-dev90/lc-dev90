@@ -46,7 +46,8 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact)
 
 
-<figure><embed src="https://wakatime.com/share/@a6fc43bf-b6c8-42c9-a191-6df41373f9cb/bde9b922-adb0-4f08-ba07-41f8192b4134.svg"></embed></figure>
+<img><embed src="https://wakatime.com/share/@a6fc43bf-b6c8-42c9-a191-6df41373f9cb/bde9b922-adb0-4f08-ba07-41f8192b4134.svg"></embed></img>
+
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
