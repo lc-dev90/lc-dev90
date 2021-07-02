@@ -67,6 +67,12 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
   style="float: left; margin-right: 10px"
   src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"
 />
+<img
+  alt="Badge"
+  style="float: left; margin-right: 10px"
+  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+/>
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
