@@ -65,9 +65,13 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 <img
   alt="Badge"
   style="float: left; margin-right: 10px"
+  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+/>
+<img
+  alt="Badge"
+  style="float: left; margin-right: 10px"
   src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
 />
-
 <img
   alt="Badge"
   style="float: left; margin-right: 10px"
