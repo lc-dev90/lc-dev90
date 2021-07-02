@@ -47,7 +47,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 
 
 ![Time](https://wakatime.com/share/@a6fc43bf-b6c8-42c9-a191-6df41373f9cb/bde9b922-adb0-4f08-ba07-41f8192b4134.svg)
-<img src="https://wakatime.com/share/@a6fc43bf-b6c8-42c9-a191-6df41373f9cb/bde9b922-adb0-4f08-ba07-41f8192b4134.svg" width="300px"/>
+<img src="https://wakatime.com/share/@a6fc43bf-b6c8-42c9-a191-6df41373f9cb/bde9b922-adb0-4f08-ba07-41f8192b4134.svg" width="500px"/>
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
