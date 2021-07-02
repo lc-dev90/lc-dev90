@@ -64,6 +64,10 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 />
 
 
+[![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-dev90)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/luiz-danella-271226213/">
