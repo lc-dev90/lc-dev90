@@ -88,4 +88,4 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 <br>
 <br>
 <br>
-⭐️ From [lc-dev90](https://github.com/lc-dev90)
+⭐️ From <a href="https://github.com/lc-dev90" >[lc-dev90]</a> 
