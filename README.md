@@ -45,7 +45,7 @@ I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻
 
 <img src="https://wakatime.com/share/@a6fc43bf-b6c8-42c9-a191-6df41373f9cb/bde9b922-adb0-4f08-ba07-41f8192b4134.svg" width="700px"/>
 
-<hr>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/luiz-danella-271226213/">
