@@ -6,7 +6,7 @@
 
 Hi, I'm Luiz Cláudio, but you can call me **Luiz**. 
 
-I'm a Front-end Typescript Developer from Brazil 💚, **31 years old** 👶🏻 and **3 months of coding** 🧐. 
+I'm a Front-end Javascript Developer from Brazil 💚, **31 years old** 👶🏻 and **4 months of coding** 🧐. 
 
 **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Tibia** 🗡 fan. 
 
