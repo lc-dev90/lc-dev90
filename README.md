@@ -1,4 +1,5 @@
-<h1 style="text-align: center, display: block, width: 100%"> 👋 Hello World!  <img src="https://raw.githubusercontent.com/lc-dev90/Frontend-Mentor/master/Earth.gif" width="24px"></h1>
+<h1 style="text-align: center; display: block; width: 100%;"> 👋 Hello World!  <img src="https://raw.githubusercontent.com/lc-dev90/Frontend-Mentor/master/Earth.gif" width="24px"></h1>
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/lc-dev90/Frontend-Mentor/master/gif3.gif" width="500"/>
 
