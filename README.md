@@ -2,6 +2,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/lc-dev90/Frontend-Mentor/master/gif3.gif" width="500"/>
 
+<h3> 👨🏻‍💻 About Me </h3>
+
 Hi, I'm Luiz Cláudio, but you can call me **Luiz**. 
 
 I'm a Front-end Javascript Developer from Brazil 💚, **31 years old** 👶🏻 and **4 months of coding** 🧐. 
