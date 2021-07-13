@@ -4,9 +4,9 @@
 
 Hi, I'm Luiz Cláudio, but you can call me **Luiz**. 
 
-I'm a Front-end Javascript Developer from Brazil 💚, **31 years old** 👶🏻 and **4 months of coding** 🧐. 
+I'm a Front-end Javascript Developer from Brazil 💚, **31 years old** and **4 months of coding** 🧐. 
 
-**A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Tibia** 🗡 fan. 
+**A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 . 
 
 - 🔭 &nbsp; I’m currently learning Frontend Development
 - 🤔 &nbsp; Exploring new technologies and developing challenges and little projects.
@@ -14,7 +14,6 @@ I'm a Front-end Javascript Developer from Brazil 💚, **31 years old** 👶🏻
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in backend development.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
 
 
 
@@ -107,6 +106,7 @@ I'm a Front-end Javascript Developer from Brazil 💚, **31 years old** 👶🏻
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lc-dev90&hide=stars,issues&count_private=true&show_icons=true"/>
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc-dev90&layout=compact" />
 </a>
@@ -128,4 +128,4 @@ I'm a Front-end Javascript Developer from Brazil 💚, **31 years old** 👶🏻
 <br>
 <br>
 <br>
-⭐️ From <a href="https://github.com/lc-dev90" >[lc-dev90]</a> 
+⭐️ From <a href="https://github.com/lc-dev90" >lc-dev90</a> 
